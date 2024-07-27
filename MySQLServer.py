@@ -16,4 +16,3 @@ else:
 
 mycursor.close()
 mydb.close()
-
